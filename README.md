@@ -10,7 +10,8 @@
  application 1: end point
  
 http://localhost:8090/app1/employee/save
-If you hit this url... internaly the employee is going to application 2 to save.
+
+If you hit this url... internaly the employee is going to application_2 end point(http://localhost:8090/app2/employee/save) to save.
 
 
 # How to register feign client.
