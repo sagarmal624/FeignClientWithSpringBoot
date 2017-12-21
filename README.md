@@ -1,7 +1,7 @@
-# FeignClientWithSpringBoot
-https://www.sagarandcompany.com/
+# FeignClientWithSpringBoot demo by https://www.sagarandcompany.com/
 
-#How to interact two micro services??.
+
+# How to interact two micro services??.
 
 
 # There are two application 
@@ -26,7 +26,7 @@ public interface RestClientService {
 </code></pre>
 
 
-How to enable feign client
+# How to enable feign client
 there is one annotation to enable feign client.
 @EnableFeignClients
 
