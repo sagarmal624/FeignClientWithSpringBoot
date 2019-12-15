@@ -1,4 +1,4 @@
-# FeignClientWithSpringBoot demo by https://www.sagarandcompany.com/
+# FeignClientWithSpringBoot
 
 
 # How to interact two micro services??.
